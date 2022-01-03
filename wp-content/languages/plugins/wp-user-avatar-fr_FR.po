@@ -1,0 +1,1623 @@
+# Translation of Plugins - User Registration, Login Form, User Profile &amp; Membership – ProfilePress (Formerly WP User Avatar) - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - User Registration, Login Form, User Profile &amp; Membership – ProfilePress (Formerly WP User Avatar) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-17 21:18:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - User Registration, Login Form, User Profile &amp; Membership – ProfilePress (Formerly WP User Avatar) - Stable (latest release)\n"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Agreeable.php:53
+msgid "True"
+msgstr "Vrai"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Agreeable.php:52
+msgid "False"
+msgstr "Faux"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Agreeable.php:50
+msgid "Checked by Default"
+msgstr "Coché par défaut"
+
+#: src/Functions/PPressBFnote.php:77
+msgid "Save 25% Now!"
+msgstr "Économisez 25% dès maintenant !"
+
+#: src/Functions/PPressBFnote.php:68
+msgid "%1$sHuge Black Friday Sale%2$s: Get 25%% off your ProfilePress plugin upgrade today with the coupon %3$sBFCM2021%4$s"
+msgstr "%1$sGrande vente du Black Friday%2$s : obtenez aujourd’hui 25%% de réduction sur la mise à niveau de votre extension ProfilePress avec le code promo %3$sBFCM2021%4$s"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:61
+msgid "Integrations"
+msgstr "Intégrations"
+
+#: src/Admin/SettingsPages/AbstractSettingsPage.php:207
+msgid "Need Support?"
+msgstr "Besoin d’aide ?"
+
+#: src/Admin/SettingsPages/AbstractSettingsPage.php:79
+msgid "Docs"
+msgstr "Documentation"
+
+#: src/Admin/SettingsPages/AbstractSettingsPage.php:75
+msgid "Pro Upgrade"
+msgstr "Passer à la version Pro"
+
+#: src/Admin/SettingsPages/AbstractSettingsPage.php:71
+msgid "Support"
+msgstr "Support"
+
+#: src/Admin/SettingsPages/AbstractSettingsPage.php:252
+msgid "If you are enjoying ProfilePress and find it useful, please consider leaving a ★★★★★ review on WordPress.org. %sLeave a Review%s"
+msgstr "Si vous aimez ProfilePress et le trouvez utile, pensez à laisser une évaluation ★★★★★ sur WordPress.org. %sAjouter une évaluation%s"
+
+#: src/Admin/SettingsPages/AbstractSettingsPage.php:67
+msgid "Review"
+msgstr "Évaluer"
+
+#: src/Themes/DragDrop/UserProfile/DefaultTemplate.php:380
+msgid "See More Comments"
+msgstr "Afficher plus de commentaires"
+
+#: src/Themes/DragDrop/UserProfile/DefaultTemplate.php:349
+msgid "See More Posts"
+msgstr "Afficher plus d’articles"
+
+#: src/Themes/DragDrop/MemberDirectory/DefaultTemplate.php:53
+#: src/Themes/DragDrop/UserProfile/DefaultTemplate.php:82
+msgid "Enable Cover Photo"
+msgstr "Activer la photo de couverture"
+
+#: src/ShortcodeParser/Builder/FieldsShortcodeCallback.php:1138
+msgid "Delete Cover Photo"
+msgstr "Effacer la photo de couverture"
+
+#: src/ShortcodeParser/Builder/FieldsShortcodeCallback.php:471
+msgid "Cover photo"
+msgstr "Photo de couverture"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/EditProfile/ShowCoverImage.php:22
+msgid "Show Cover Photo"
+msgstr "Afficher la photo de couverture"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CoverImage.php:22
+msgid "Upload Cover Photo"
+msgstr "Téléverser une photo de couverture"
+
+#: deprecated/wp-user-avatar/includes/wpua-options-page.php:47
+msgid "Default Cover Photo"
+msgstr "Photo de couverture par défaut"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:43
+#: src/Classes/ImageUploader.php:41
+msgid "Cover Photo"
+msgstr "Photo de couverture"
+
+#: src/Classes/AdminNotices.php:125
+msgid "Change Permalink Structure"
+msgstr "Modifier le réglage des permaliens"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:117
+msgid "Previous/Referrer page"
+msgstr "Page précédente/référente"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:112
+msgid "Previous/Referrer page (Pro feature)"
+msgstr "Page précédente/référente (version Pro)"
+
+#: src/ShortcodeParser/RegistrationFormTag.php:51
+msgid "You are already registered."
+msgstr "Vous êtes déjà enregistré."
+
+#: src/ShortcodeParser/LoginFormTag.php:54
+msgid "You are already logged in."
+msgstr "Vous êtes déjà connecté."
+
+#: deprecated/wp-user-avatar/includes/wpua-options-page.php:13
+msgid "Avatar is currently disabled. Kindly %senable it on \"Avatar Display\" section%s."
+msgstr "Les avatars sont désactivés. Veuillez les %sactiver dans la section \"Affichage des avatars\"%s"
+
+#: src/Admin/SettingsPages/AddNewForm.php:79
+msgid "Code your own from scratch with complete control and flexibility. %sLearn more%s."
+msgstr "Codez votre propre version pour plus de contrôle et de flexibilité. %sEn savoir plus%s"
+
+#: src/Functions/GlobalFunctions.php:1408
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Désolé, ce type de fichier n’est pas autorisé pour des raisons de sécurité."
+
+#: src/Functions/GlobalFunctions.php:1404
+msgid "Sorry, this file extension is not permitted for security reasons."
+msgstr "Désolé, cette extension de fichier n’est pas autorisée pour des raisons de sécurité."
+
+#: src/Functions/GlobalFunctions.php:1399
+msgid "There was an problem while verifying your file."
+msgstr "La vérification de votre fichier a échoué."
+
+#: src/Admin/SettingsPages/MailOptin.php:651
+msgid "Plugin unavailable."
+msgstr "Extension indisponible."
+
+#: src/Admin/SettingsPages/MailOptin.php:641
+msgid "You do not have permission."
+msgstr "Vous n’avez pas l’autorisation."
+
+#: src/Admin/SettingsPages/MailOptin.php:620
+msgid "Go to MailOptin settings"
+msgstr "Aller aux réglages de MailOptin"
+
+#: src/Admin/SettingsPages/MailOptin.php:614
+msgid "Start Setup"
+msgstr "Démarrer la configuration"
+
+#: src/Admin/SettingsPages/MailOptin.php:596
+msgid "Activate MailOptin"
+msgstr "Activer MailOptin"
+
+#: src/Admin/SettingsPages/MailOptin.php:588
+msgid "Install MailOptin"
+msgstr "Installer MailOptin"
+
+#: src/Admin/SettingsPages/MailOptin.php:567
+msgid "Configure and create your first optin form."
+msgstr "Crééz et configurez votre premier formulaire optin."
+
+#: src/Admin/SettingsPages/MailOptin.php:566
+msgid "Set Up MailOptin"
+msgstr "Configurer MailOptin"
+
+#: src/Admin/SettingsPages/MailOptin.php:565
+msgid "Step 2"
+msgstr "Étape 2"
+
+#: src/Admin/SettingsPages/MailOptin.php:532
+msgid "Install MailOptin from the WordPress.org plugin repository."
+msgstr "Installer MailOptin depuis le dépôt des extensions WordPress.org."
+
+#: src/Admin/SettingsPages/MailOptin.php:531
+msgid "Install and Activate MailOptin"
+msgstr "Installer et activer MailOptin"
+
+#: src/Admin/SettingsPages/MailOptin.php:530
+msgid "Step 1"
+msgstr "Étape 1"
+
+#: src/Admin/SettingsPages/MailOptin.php:472
+msgid "ProfilePress ♥ MailOptin"
+msgstr "ProfilePress ♥ MailOptin"
+
+#: src/Admin/SettingsPages/MailOptin.php:243
+msgid "Go to MailOptin Settings"
+msgstr "Aller aux réglages de MailOptin"
+
+#: src/Admin/SettingsPages/MailOptin.php:238
+msgid "Go to Plugins page"
+msgstr "Aller à la page des extensions"
+
+#: src/Admin/SettingsPages/MailOptin.php:237
+msgid "Download Now"
+msgstr "Télécharger maintenant"
+
+#: src/Admin/SettingsPages/MailOptin.php:236
+msgid "Activate Now"
+msgstr "Activer maintenant"
+
+#: src/Admin/SettingsPages/MailOptin.php:235
+msgid "Install Now"
+msgstr "Installer maintenant"
+
+#: src/Admin/SettingsPages/MailOptin.php:234
+#: src/Admin/SettingsPages/MailOptin.php:596
+msgid "MailOptin Installed & Activated"
+msgstr "MailOptin est installé et activé"
+
+#: src/Admin/SettingsPages/MailOptin.php:233
+msgid "Activating..."
+msgstr "Activation…"
+
+#: src/Admin/SettingsPages/MailOptin.php:232
+msgid "Installing..."
+msgstr "Installation…"
+
+#. translators: %s - Lite plugin download URL.
+#: src/Admin/SettingsPages/MailOptin.php:221
+msgid "Could not activate plugin. Please activate from the <a href=\"%s\">Plugins page</a>."
+msgstr "Impossible d’activer l’extension. Veuillez l’activer depuis la <a href=\"%s\">page des extensions</a>."
+
+#. translators: %s - Lite plugin download URL.
+#: src/Admin/SettingsPages/MailOptin.php:209
+msgid "Could not install plugin. Please <a href=\"%s\">download</a> and install manually."
+msgstr "Impossible d’installer l’extension. Veuillez la <a href=\"%s\">télécharger</a> et l’installer manuellement."
+
+#: src/Admin/SettingsPages/MailOptin.php:170
+msgid "Could not activate plugin. Please activate from the Plugins page."
+msgstr "Impossible d’activer l’extension. Veuillez l’activer depuis la page des extensions."
+
+#: src/Admin/SettingsPages/MailOptin.php:166
+msgid "Plugin activated."
+msgstr "Extension activée."
+
+#: src/Admin/SettingsPages/MailOptin.php:157
+msgid "Plugin activation is disabled for you on this site."
+msgstr "L’activation d’extension est désactivée pour vous sur ce site."
+
+#: src/Admin/SettingsPages/MailOptin.php:141
+msgid "Addon installed & activated."
+msgstr "Module installé et activé."
+
+#: src/Admin/SettingsPages/MailOptin.php:141
+msgid "Plugin installed & activated."
+msgstr "Extension installée et activée."
+
+#: src/Admin/SettingsPages/MailOptin.php:131
+msgid "Addon installed."
+msgstr "Module installé."
+
+#: src/Admin/SettingsPages/MailOptin.php:131
+msgid "Plugin installed."
+msgstr "Extension installée."
+
+#: src/Admin/SettingsPages/MailOptin.php:63
+msgid "Could not install addon. Please download from wpforms.com and install manually."
+msgstr "Impossible d’installer l’extension. Veuillez la télécharger depuis wpforms.com et l’installer manuellement."
+
+#: src/Admin/SettingsPages/MailOptin.php:63
+msgid "Could not install plugin. Please download and install manually."
+msgstr "Impossible d’installer l’extension. Veuillez la télécharger et l’installer manuellement."
+
+#: src/Admin/SettingsPages/MailOptin.php:51
+msgid "There was an error while performing your request."
+msgstr "Une erreur s’est produite lors de l’exécution de votre requête."
+
+#: src/Admin/SettingsPages/AddNewForm.php:51
+msgid "Get Started"
+msgstr "Premiers pas"
+
+#: src/NavigationMenuLinks/Backend.php:33 src/RegisterActivation/Base.php:172
+msgid "My Profile"
+msgstr "Mon Profil"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:302
+msgid "Footer Text"
+msgstr "Texte de pied de page"
+
+#: src/AdminBarDashboardAccess/include.settings-page.php:97
+msgid "Dashboard Redirect URL"
+msgstr "URL de redirection du tableau de bord"
+
+#: src/AdminBarDashboardAccess/include.settings-page.php:63
+#: src/AdminBarDashboardAccess/include.settings-page.php:81
+msgid "Dashboard Access Control"
+msgstr "Gestion des accès au tableau de bord"
+
+#: src/RegisterActivation/Base.php:144
+msgid "Lucid Tab Widget"
+msgstr "Widget Lucid Tab"
+
+#: src/RegisterActivation/Base.php:137
+msgid "Default Member Directory"
+msgstr "Annuaire des membres par défaut"
+
+#: src/RegisterActivation/Base.php:176
+msgid "Member Directory"
+msgstr "Annuaire des membres"
+
+#: src/RegisterActivation/Base.php:130
+msgid "Default User Profile"
+msgstr "Profil de membre par défaut"
+
+#: src/RegisterActivation/Base.php:123
+msgid "Default Edit Profile"
+msgstr "Édition de profil par défaut"
+
+#: src/RegisterActivation/Base.php:116
+msgid "Default Password Reset"
+msgstr "Réinitialisation de mot de passe par défaut"
+
+#: src/RegisterActivation/Base.php:109
+msgid "Default Login"
+msgstr "Connexion par défaut"
+
+#: src/RegisterActivation/Base.php:102
+msgid "Default Registration"
+msgstr "Inscription par défaut"
+
+#: src/NavigationMenuLinks/Backend.php:119
+msgid "Add to Menu"
+msgstr "Ajouter au menu"
+
+#: src/NavigationMenuLinks/Backend.php:47
+#: src/NavigationMenuLinks/Backend.php:78
+#: src/NavigationMenuLinks/Backend.php:146
+msgid "ProfilePress Link"
+msgstr "Lien ProfilePress"
+
+#: src/NavigationMenuLinks/Backend.php:46
+#: src/NavigationMenuLinks/Backend.php:89
+msgid "ProfilePress Links"
+msgstr "Liens ProfilePress"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:294
+msgid "This is used when template logo is not set."
+msgstr "Utilisé lorsque le logo n’est pas défini."
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:286
+msgid "Choose Logo"
+msgstr "Choisir le logo"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:284
+msgid "No logo selected"
+msgstr "Aucun logo sélectionné"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:281
+msgid "Change Logo"
+msgstr "Modifier le logo"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:280
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:285
+msgid "Select Logo"
+msgstr "Sélectionner un logo"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:272
+msgid "Logo"
+msgstr "Logo"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:261
+msgid "Content Text Color"
+msgstr "Couleur de texte du contenu"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:250
+msgid "Content Background Color"
+msgstr "Couleur d’arrière-plan du contenu"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:240
+msgid "Background Text Color"
+msgstr "Couleur d’arrière plan du texte"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:229
+msgid "Background Color"
+msgstr "Couleur de l’arrière-plan"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:174
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:215
+msgid "© %s %s. All rights reserved."
+msgstr "© %s %s. Tous droits réservés."
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:160
+msgid "Footer"
+msgstr "Pied de page"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:154
+msgid "Header"
+msgstr "En-tête"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:148
+msgid "Body"
+msgstr "Corps"
+
+#: src/Admin/SettingsPages/EmailSettings/CustomizerTrait.php:14
+msgid "Saved"
+msgstr "Enregistré"
+
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:43
+#: src/Admin/SettingsPages/EmailSettings/email-template-preview.php:11
+msgid "ProfilePress Email Template"
+msgstr "Modèle de courriel ProfilePress"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:261
+msgid "Message Body"
+msgstr "Corps du message"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:256
+msgid "Enter the subject or title for the welcome message email."
+msgstr "Sujet ou titre du courriel de bienvenue"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:255
+msgid "Subject Line"
+msgstr "Ligne d’objet"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:250
+msgid "Check to enable this email notification."
+msgstr "Activer cette notification par e-mail."
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:246
+msgid "Enable Notification"
+msgstr "Activer la notification"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:225
+msgid "Preview Email"
+msgstr "Aperçu du courriel"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:182
+msgid "Customize Default Template"
+msgstr "Personnaliser le modèle par défaut"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:175
+msgid "Choose \"Custom Email Template\" if you want to code your own email template from scratch."
+msgstr "Sélectionnez \"Modèle de courriel personnalisé\" pour créer votre propre modèle à partir de zéro."
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:174
+msgid "Email Template"
+msgstr "Modèle de courriel"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:171
+msgid "Custom Email Template"
+msgstr "Modèle personnalisé de courriel"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:170
+msgid "Default Template"
+msgstr "Modèle par défaut"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:165
+msgid "Choose whether to send ProfilePress emails in HTML or plain text. HTML is recommended."
+msgstr "Spécifiez si les courriels envoyés par ProfilePress sont en HTML ou en texte. HTML est recommandé."
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:164
+msgid "Content Type"
+msgstr "Type de contenu"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:161
+msgid "Plain Text"
+msgstr "Texte simple"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:160
+msgid "HTML"
+msgstr "HTML"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:153
+msgid "Sender Email Address"
+msgstr "Adresse courriel de l’expéditeur"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:146
+msgid "Sender Name"
+msgstr "Nom de l’expéditeur"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:141
+msgid "The Email address to receive admin notifications. Use comma to separate multiple email addresses."
+msgstr "Adresse courriel pour la réception des notifications administratives. Séparez les adresses multiples avec des virgules."
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:113
+msgid "Website name or name."
+msgstr "Nom du site, ou nom."
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:112
+msgid "Last name of the newly registered user."
+msgstr "Nom de famille du nouveau membre"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:111
+msgid "First name of the newly registered user."
+msgstr "Prénom du nouveau membre."
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:110
+msgid "Email address of the newly registered user."
+msgstr "Adresse courriel du nouveau membre."
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:107
+msgid "Administrators"
+msgstr "Administrateurs"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:89
+msgid "Password Reset Email"
+msgstr "Courriel de réinitialisation de mot de passe"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:103
+msgid "New User Admin Notification"
+msgstr "Notification aux administrateurs de nouveaux utilisateurs"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:84
+msgid "URL to login.."
+msgstr "URL de connexion."
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:83
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:98
+msgid "URL to reset password."
+msgstr "URL de réinitialisation du mot de passe."
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:80
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:97
+msgid "Website title or name."
+msgstr "Titre du site web ou nom."
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:79
+msgid "Password of the registered user."
+msgstr "Mot de passe du membre inscrit."
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:78
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:96
+msgid "Email address of the registered user."
+msgstr "Adresse courriel du membre inscrit."
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:75
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:93
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:74
+msgid "Email that is sent to the user upon successful registration."
+msgstr "Email envoyé à l’utilisateur après une inscription réussie"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:71
+msgid "Account Welcome Email"
+msgstr "Courriel de bienvenue du compte"
+
+#: src/Admin/SettingsPages/EmailSettings/WPListTable.php:30
+msgid "Recipient"
+msgstr "Destinataire"
+
+#: src/Admin/SettingsPages/EmailSettings/WPListTable.php:29
+#: src/Widgets/TabbedWidget.php:169
+msgid "Email"
+msgstr "Courriel"
+
+#: src/Admin/SettingsPages/EmailSettings/WPListTable.php:23
+msgid "No email available."
+msgstr "Aucun courriel disponible."
+
+#: src/Admin/SettingsPages/AdminFooter.php:27
+msgid "Thank you for using <a href=\"%1$s\" target=\"_blank\">ProfilePress</a>! Please <a href=\"%2$s\" target=\"_blank\">rate us ★★★★★</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> to help us spread the word."
+msgstr "Merci d’utiliser <a href=\"%1$s\" target=\"_blank\">ProfilePress</a> ! Veuillez <a href=\"%2$s\" target=\"_blank\">nous laisser une évaluation ★★★★★</a> sur <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> pour passer le mot."
+
+#: src/Admin/SettingsPages/AbstractSettingsPage.php:314
+msgid "Custom URL Here"
+msgstr "URL personnalisé"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:65
+msgid "Premium Addons"
+msgstr "Modules premium"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:28
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:135
+#: src/Admin/SettingsPages/GeneralSettings.php:57
+msgid "Emails"
+msgstr "Courriels"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Number.php:54
+msgid "Enter the maximum value allowed."
+msgstr "Valeur maximum autorisée."
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Number.php:52
+msgid "Maximum Value"
+msgstr "Valeur maximum"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Number.php:49
+msgid "Enter the minimum value allowed."
+msgstr "Valeur minimum autorisée."
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Number.php:47
+msgid "Minimum Value"
+msgstr "Valeur minimum"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Number.php:22
+msgid "Number"
+msgstr "Nombre"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/EditProfile/ShowCoverImage.php:30
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/EditProfile/ShowProfilePicture.php:35
+msgid "Alt Text"
+msgstr "Texte alternatif"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/EditProfile/ShowProfilePicture.php:22
+msgid "Show Profile Picture"
+msgstr "Afficher la photo de profil"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/TextBox.php:22
+msgid "Text Box"
+msgstr "Champ de texte"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Date.php:58
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Date.php:59
+msgid "Only Time"
+msgstr "Heure seulement"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Date.php:40
+msgid "Date/Time Format"
+msgstr "Format date et heure"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Country.php:22
+msgid "Country"
+msgstr "Pays"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectRole.php:35
+msgid "Enter comma separated list of roles to include in the select dropdown."
+msgstr "Rôles à inclure dans la liste de sélection, séparés par des virgules."
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectRole.php:21
+msgid "Select Role"
+msgstr "Choisir un rôle"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectDropdown.php:50
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectRole.php:33
+msgid "Options"
+msgstr "Options"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectDropdown.php:47
+msgid "Check to allow multiple options to be selected."
+msgstr "Cochez pour permettre des sélections multiples."
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectDropdown.php:44
+msgid "Multiple Selection"
+msgstr "Sélection multiple"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectDropdown.php:22
+msgid "Dropdown"
+msgstr "Liste déroulante"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SingleCheckbox.php:40
+msgid "Checkbox Text"
+msgstr "Texte de la case à cocher"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SingleCheckbox.php:22
+msgid "Single Checkbox"
+msgstr "Case à cocher unique"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/HTML.php:35
+msgid "Content"
+msgstr "Contenu"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/HTML.php:22
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/HTML.php:27
+msgid "Custom HTML"
+msgstr "HTML personnalisé"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/RadioButtons.php:22
+msgid "Radio Buttons"
+msgstr "Boutons radio"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CheckboxList.php:45
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/RadioButtons.php:45
+msgid "Choices"
+msgstr "Choix"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CheckboxList.php:22
+msgid "Checkbox List"
+msgstr "Liste de cases à cocher"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/PasswordStrengthMeter.php:31
+msgid "Enforce"
+msgstr "Forcer"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/PasswordStrengthMeter.php:22
+msgid "Password Strength"
+msgstr "Force du mot de passe"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Textarea.php:22
+msgid "Textarea"
+msgstr "Zone de texte"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/UserProfile/DisplayName.php:41
+msgid "First Initial of First Name & Last Name"
+msgstr "Initiales du prénom et du nom"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/UserProfile/DisplayName.php:40
+msgid "First Name & First Initial of Last Name"
+msgstr "Prénom et initiale du nom"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/UserProfile/DisplayName.php:37
+msgid "Default Display Name"
+msgstr "Affichage du nom par défaut"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/UserProfile/DisplayName.php:34
+msgid "Format"
+msgstr "Format"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/UserProfile/CustomField.php:22
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/UserProfile/CustomField.php:30
+msgid "Custom Field"
+msgstr "Champ personnalisé"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CFPassword.php:35
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CheckboxList.php:40
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Country.php:39
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Date.php:35
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Number.php:35
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/RadioButtons.php:40
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectDropdown.php:39
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SingleCheckbox.php:35
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Textarea.php:35
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/TextBox.php:35
+msgid "Field Key"
+msgstr "Clé du champ"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Bio.php:39
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CFPassword.php:49
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CheckboxList.php:54
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Country.php:48
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CoverImage.php:32
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Date.php:72
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Agreeable.php:62
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Checkbox.php:66
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Date.php:58
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Input.php:59
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Password.php:59
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Radio.php:58
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Select.php:59
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DisplayName.php:39
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/FirstName.php:39
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/LastName.php:39
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Nickname.php:39
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Number.php:64
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/ProfilePicture.php:32
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/RadioButtons.php:54
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectDropdown.php:59
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectRole.php:42
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SingleCheckbox.php:48
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Textarea.php:49
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/TextBox.php:49
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Website.php:39
+msgid "Force users to fill out this field, otherwise it will be optional."
+msgstr "Forcer les utilisateurs à remplir ce champ, sinon il sera facultatif."
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Bio.php:38
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CFPassword.php:48
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CheckboxList.php:53
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Country.php:47
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CoverImage.php:31
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Date.php:71
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Agreeable.php:61
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Checkbox.php:65
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Date.php:57
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Input.php:58
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Password.php:58
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Radio.php:57
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Select.php:58
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DisplayName.php:38
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/FirstName.php:38
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/LastName.php:38
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Nickname.php:38
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Number.php:63
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/ProfilePicture.php:31
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/RadioButtons.php:53
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectDropdown.php:58
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectRole.php:41
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SingleCheckbox.php:47
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Textarea.php:48
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/TextBox.php:48
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Website.php:38
+msgid "Required"
+msgstr "Obligatoire"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Login/RememberLogin.php:22
+msgid "Remember Login"
+msgstr "Se rappeler la connexion"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Login/Userlogin.php:27
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/PasswordReset/Userlogin.php:27
+msgid "User Login"
+msgstr "Connexion"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1517
+msgid "Add Media"
+msgstr "Ajouter des médias"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1516
+msgid "Visual"
+msgstr "Visuel"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1487
+msgid "Colors"
+msgstr "Couleurs"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1480
+msgid "Appearance"
+msgstr "Apparence"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1473
+msgid "Submit Button"
+msgstr "Bouton Envoyer"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Bio.php:47
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CFPassword.php:57
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CheckboxList.php:62
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/ConfirmEmail.php:39
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/ConfirmPassword.php:39
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Country.php:56
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CoverImage.php:40
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Date.php:80
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Agreeable.php:70
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Checkbox.php:59
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Date.php:66
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Input.php:67
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Password.php:67
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Radio.php:66
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Select.php:67
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DisplayName.php:47
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/EditProfile/ShowCoverImage.php:38
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/EditProfile/ShowProfilePicture.php:43
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Email.php:39
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/FirstName.php:47
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/LastName.php:47
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Login/Password.php:39
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Login/RememberLogin.php:44
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Login/Userlogin.php:44
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Nickname.php:47
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Number.php:72
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Password.php:38
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/PasswordReset/Userlogin.php:44
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/PasswordStrengthMeter.php:40
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/ProfilePicture.php:40
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/RadioButtons.php:62
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectDropdown.php:67
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectRole.php:50
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SingleCheckbox.php:56
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Textarea.php:57
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/TextBox.php:57
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Username.php:38
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Website.php:47
+msgid "Enter the CSS class names you would like to add to this field."
+msgstr "Nom des classes CSS à ajouter à ce champ."
+
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Bio.php:45
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CFPassword.php:55
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CheckboxList.php:60
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/ConfirmEmail.php:37
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/ConfirmPassword.php:37
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Country.php:54
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/CoverImage.php:38
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Date.php:78
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Agreeable.php:68
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Checkbox.php:57
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Date.php:64
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Input.php:65
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Password.php:65
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Radio.php:64
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DefinedFieldTypes/Select.php:65
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/DisplayName.php:45
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/EditProfile/ShowCoverImage.php:36
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/EditProfile/ShowProfilePicture.php:41
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Email.php:37
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/FirstName.php:45
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/LastName.php:45
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Login/Password.php:37
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Login/RememberLogin.php:42
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Login/Userlogin.php:42
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Nickname.php:45
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Number.php:70
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Password.php:36
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/PasswordReset/Userlogin.php:42
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/PasswordStrengthMeter.php:38
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/ProfilePicture.php:38
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/RadioButtons.php:60
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectDropdown.php:65
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SelectRole.php:48
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/SingleCheckbox.php:54
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Textarea.php:55
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/TextBox.php:55
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Username.php:36
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/Website.php:45
+msgid "CSS Classes"
+msgstr "Classes CSS"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1439
+msgid "Password Reset Settings"
+msgstr "Paramètres de réinitialisation du mot de passe"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1392
+msgid "Edit Profile Settings"
+msgstr "Paramètres du Profil"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1288
+msgid "Delete Form"
+msgstr "Supprimer le formulaire"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1230
+msgid "No custom field available. %sClick here to create one%s."
+msgstr "Aucun champ personnalisé disponible. %sCliquez ici pour en créer un%s."
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1203
+msgid "Extra Fields"
+msgstr "Champs supplémentaires"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1174
+msgid "Select Icon"
+msgstr "Choisir une icône"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:187
+msgid "Changes saved"
+msgstr "Modifications enregistrées"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:168
+msgid "Form title cannot empty"
+msgstr "Le titre du formulaire doit être rempli."
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:272
+msgid "Directory Settings"
+msgstr "Réglages de répertoire"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:265
+msgid "Form Settings"
+msgstr "Réglages du formulaire"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:236
+msgid "Google Fonts"
+msgstr "Polices Google"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:234
+msgid "Verdana"
+msgstr "Verdana"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:233
+msgid "Trebuchet MS"
+msgstr "Trebuchet MS"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:232
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:231
+msgid "Tahoma"
+msgstr "Tahoma"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:230
+msgid "Lucida"
+msgstr "Lucida"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:229
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:227
+msgid "Courier New"
+msgstr "Courier New"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:226
+msgid "Comic Sans MS"
+msgstr "Comic Sans MS"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:225
+msgid "Arial"
+msgstr "Arial"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:224
+msgid "Standard Fonts"
+msgstr "Polices standards"
+
+#: src/Admin/SettingsPages/DragDropBuilder/Metabox.php:99
+msgid "Upload Image"
+msgstr "Téléverser une image"
+
+#: src/Admin/SettingsPages/DragDropBuilder/FieldBase.php:238
+msgid "Clone"
+msgstr "Dupliquer"
+
+#: src/Admin/SettingsPages/DragDropBuilder/FieldBase.php:213
+msgid "Apply Changes"
+msgstr "Appliquer les modifications"
+
+#: src/Admin/SettingsPages/DragDropBuilder/FieldBase.php:210
+msgid "Cancel"
+msgstr "Annuler"
+
+#: src/Admin/SettingsPages/DragDropBuilder/FieldBase.php:111
+msgid "Edit Field"
+msgstr "Modifier le champ"
+
+#: src/Admin/SettingsPages/DragDropBuilder/FieldBase.php:88
+msgid "Style"
+msgstr "Style"
+
+#: src/Admin/SettingsPages/MemberDirectories.php:37
+#: src/Admin/SettingsPages/MemberDirectories.php:55
+#: src/Admin/SettingsPages/MemberDirectories.php:91
+msgid "Member Directories"
+msgstr "Annuaires de membres"
+
+#: src/Admin/SettingsPages/AddNewForm.php:123
+msgid "Back to Overview"
+msgstr "Retour à l’aperçu"
+
+#: src/Admin/SettingsPages/AddNewForm.php:27
+#: src/Admin/SettingsPages/MemberDirectories.php:40
+msgid "Add Member Directory"
+msgstr "Ajouter un annuaire de membres"
+
+#: src/Admin/SettingsPages/Forms.php:299
+#: src/Admin/SettingsPages/MemberDirectories.php:211
+msgid "Add New"
+msgstr "Ajouter"
+
+#: src/Admin/SettingsPages/Forms.php:219
+#: src/Admin/SettingsPages/MemberDirectories.php:114
+msgid "Live Preview"
+msgstr "Aperçu en direct"
+
+#: src/Admin/SettingsPages/Forms.php:177
+msgid "Forms"
+msgstr "Formulaires"
+
+#: src/Admin/SettingsPages/Forms.php:110
+msgid "Filter by Type"
+msgstr "Filtrer par type"
+
+#: src/Admin/SettingsPages/Forms.php:54
+msgid "Add Form"
+msgstr "Ajouter un formulaire"
+
+#: src/Admin/SettingsPages/Forms.php:50
+msgid "Edit Form"
+msgstr "Modifier le formulaire"
+
+#: src/Admin/SettingsPages/Forms.php:47 src/Admin/SettingsPages/Forms.php:73
+msgid "Forms & Profiles"
+msgstr "Formulaires et profils"
+
+#: src/Admin/SettingsPages/FormList.php:273
+msgid "Drag & Drop"
+msgstr "Glisser-déposer"
+
+#: src/Admin/SettingsPages/FormList.php:196
+msgid "Date"
+msgstr "Date"
+
+#: src/Admin/SettingsPages/FormList.php:194
+#: src/Admin/SettingsPages/FormList.php:271
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: src/Admin/SettingsPages/FormList.php:28
+msgid "forms"
+msgstr "formulaires"
+
+#: src/Admin/SettingsPages/FormList.php:27
+msgid "form"
+msgstr "formulaire"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1352
+msgid "New User Role"
+msgstr "Nouveau rôle utilisateur"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1346
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1385
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1432
+msgid "Success Message"
+msgstr "Message de réussite"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1466
+msgid "Processing Label"
+msgstr "Libellé du traitement en cours"
+
+#: src/Admin/SettingsPages/IDUserColumn.php:20
+msgid "ID"
+msgstr "ID"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1256
+msgid "Enter title here"
+msgstr "Entrer le titre ici"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:392
+#: src/Admin/SettingsPages/GeneralSettings.php:399
+#: src/Admin/SettingsPages/GeneralSettings.php:406
+#: src/Admin/SettingsPages/GeneralSettings.php:422
+msgid "Check to enable"
+msgstr "Cochez pour activer"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:385
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:378
+msgid "This is the message shown to users that do not have permission to view the content."
+msgstr "Message affiché aux utilisateurs qui n’ont pas le droit de voir le contenu."
+
+#: src/Admin/SettingsPages/GeneralSettings.php:377
+msgid "Global Restricted Access Message"
+msgstr "Message personnalisé d’accès restreint"
+
+#: src/Admin/SettingsPages/EmailSettings/EmailSettingsPage.php:247
+#: src/Admin/SettingsPages/GeneralSettings.php:370
+msgid "Enable"
+msgstr "Activer"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:359
+msgid "Pages to Exclude"
+msgstr "Pages à exclure"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:353
+msgid "Redirect Page"
+msgstr "Page de redirection"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:347
+msgid "Accessible to Everyone"
+msgstr "Accessible à tous"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:345
+msgid "Global Site Access"
+msgstr "Accès général au site"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:333
+msgid "Access Settings"
+msgstr "Réglages d’accès"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:113
+msgid "WordPress Dashboard"
+msgstr "Tableau de bord WordPress"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:111
+#: src/Admin/SettingsPages/GeneralSettings.php:293
+msgid "Currently viewed page"
+msgstr "Page affichée actuellement"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:285
+msgid "Redirection Settings"
+msgstr "Réglages de redirection"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:284
+msgid "Redirection"
+msgstr "Redirection"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:197
+msgid "Email Address Only"
+msgstr "Adresse courriel seulement"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1416
+#: src/Admin/SettingsPages/GeneralSettings.php:192
+msgid "Login Settings"
+msgstr "Paramètres de connexion"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:184
+msgid "Check this option to automatically login users after successful registration."
+msgstr "Cochez pour connecter automatiquement les nouveaux membres après une inscription réussie."
+
+#: src/Admin/SettingsPages/GeneralSettings.php:182
+msgid "Enable auto-login"
+msgstr "Activer la connexion automatique"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:181
+msgid "Auto-login after registration"
+msgstr "Connexion automatique après inscription"
+
+#: src/Admin/SettingsPages/DragDropBuilder/DragDropBuilder.php:1369
+#: src/Admin/SettingsPages/GeneralSettings.php:178
+msgid "Registration Settings"
+msgstr "Réglages d’inscription"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:168
+msgid "Remove Data on Uninstall"
+msgstr "Supprimer les données lors de la désinstallation"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:162
+msgid "Disable"
+msgstr "Désactiver"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:160
+msgid "Disable Ajax Mode"
+msgstr "Désactiver le mode Ajax"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:152
+msgid "My Account Page"
+msgstr "Page de mon compte"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:136
+msgid "Login Page"
+msgstr "Page de connexion"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:128
+msgid "Password-reset Page"
+msgstr "Page de réinitialisation de mot de passe"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:125
+msgid "Global Settings"
+msgstr "Réglages généraux"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:122
+msgid "Global"
+msgstr "Global"
+
+#: src/Admin/SettingsPages/ExtensionsSettingsPage.php:153
+msgid "Deactivated"
+msgstr "Désactivé"
+
+#: src/Admin/SettingsPages/ExtensionsSettingsPage.php:153
+msgid "Activated"
+msgstr "Activé"
+
+#: src/Admin/SettingsPages/ExtensionsSettingsPage.php:137
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: src/Admin/SettingsPages/ExtensionsSettingsPage.php:122
+msgid "Upgrade Plan"
+msgstr "Modifier l’abonnement"
+
+#: src/Admin/SettingsPages/AddNewForm.php:85
+#: src/Admin/SettingsPages/ExtensionsSettingsPage.php:122
+msgid "Upgrade to Premium"
+msgstr "Passez à la version Premium"
+
+#: src/Admin/SettingsPages/ExtensionsSettingsPage.php:106
+msgid "Upgrade Now"
+msgstr "Mettre à niveau maintenant"
+
+#: src/Admin/SettingsPages/ExtensionsSettingsPage.php:90
+msgid "Deactivate All"
+msgstr "Tout désactiver"
+
+#: src/Admin/SettingsPages/ExtensionsSettingsPage.php:87
+msgid "Activate All"
+msgstr "Tout activer"
+
+#: src/Admin/SettingsPages/ExtensionsSettingsPage.php:39
+#: src/Admin/SettingsPages/ExtensionsSettingsPage.php:51
+msgid "Addons"
+msgstr "Extensions"
+
+#: src/Admin/SettingsPages/ToolsSettingsPage.php:54
+msgid "Delete Log"
+msgstr "Effacer le journal"
+
+#: src/Admin/SettingsPages/ToolsSettingsPage.php:44
+msgid "Debug Error Log"
+msgstr "Journal de déboguage"
+
+#: src/Admin/SettingsPages/ToolsSettingsPage.php:41
+msgid "Logs"
+msgstr "Journaux"
+
+#: src/Admin/SettingsPages/GeneralSettings.php:82
+#: src/Admin/SettingsPages/ToolsSettingsPage.php:18
+#: src/Admin/SettingsPages/ToolsSettingsPage.php:61
+msgid "Tools"
+msgstr "Outils"
+
+#: src/ContentProtection/SettingsPage.php:181
+msgid "Add a Protection Rule"
+msgstr "Ajouter une règle de protection"
+
+#: src/ContentProtection/SettingsPage.php:126
+msgid "Title cannot be empty."
+msgstr "Le titre ne peut pas être vide."
+
+#: src/ContentProtection/SettingsPage.php:49
+msgid "Add Protection Rule"
+msgstr "Ajouter une règle de protection"
+
+#: src/ContentProtection/SettingsPage.php:45
+msgid "Edit Protection Rule"
+msgstr "Modifier la régle de protection"
+
+#: src/ContentProtection/SettingsPage.php:42
+#: src/ContentProtection/SettingsPage.php:60
+msgid "Content Protection"
+msgstr "Protection de contenu"
+
+#: src/ContentProtection/views/include.view.php:67
+msgid "Add title"
+msgstr "Ajouter un titre"
+
+#: src/ContentProtection/views/include.view.php:38
+msgid "Publish"
+msgstr "Publier"
+
+#: src/Functions/PPressBFnote.php:85
+msgid "Dismiss this notice"
+msgstr "Ignorer cette notification"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:172
+msgid "URL"
+msgstr "URL"
+
+#: src/Themes/DragDrop/AbstractMemberDirectoryTheme.php:244
+#: src/Themes/DragDrop/AbstractMemberDirectoryTheme.php:825
+msgid "Search"
+msgstr "Rechercher"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:156
+#: src/Themes/DragDrop/AbstractBuildScratch.php:416
+msgid "Center"
+msgstr "Centré"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:157
+#: src/Themes/DragDrop/AbstractBuildScratch.php:356
+#: src/Themes/DragDrop/AbstractBuildScratch.php:415
+msgid "Left"
+msgstr "À gauche"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:158
+#: src/Themes/DragDrop/AbstractBuildScratch.php:357
+#: src/Themes/DragDrop/AbstractBuildScratch.php:417
+msgid "Right"
+msgstr "À droite"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:182
+msgid "Caption"
+msgstr "Légende"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:167
+#: src/ContentProtection/views/view.access-condition.php:109
+msgid "Custom URL"
+msgstr "URL personnalisée"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:187
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:197
+msgid "Insert into Post"
+msgstr "Insérer dans la publication"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:182
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:183
+msgid "wp_user_avatar_caption"
+msgstr "wp_user_avatar_caption"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:178
+msgid "Open link in a new window"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:177
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:178
+msgid "wp_user_avatar_target"
+msgstr "wp_user_avatar_target"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:172
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:173
+msgid "wp_user_avatar_link_external"
+msgstr "wp_user_avatar_link_external"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:171
+msgid "wp_user_avatar_link_external_section"
+msgstr "wp_user_avatar_link_external_section"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:166
+msgid "Image File"
+msgstr "Fichier image"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:163
+msgid "Link To"
+msgstr "Lier à"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:163
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:164
+msgid "wp_user_avatar_link"
+msgstr "wp_user_avatar_link"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:153
+msgid "Alignment"
+msgstr "Alignement"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:153
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:154
+msgid "wp_user_avatar_align"
+msgstr "wp_user_avatar_align"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:191
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:192
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:193
+msgid "wp_user_avatar_upload"
+msgstr "wp_user_avatar_upload"
+
+#: deprecated/wp-user-avatar/includes/wpua-options-page.php:102
+msgid "Disable Gravatar and use only local avatars"
+msgstr "Désactiver Gravatar et utiliser les avatars fournis"
+
+#: deprecated/wp-user-avatar/includes/wpua-options-page.php:75
+msgid "Resize avatars on upload"
+msgstr "Redimensionner avatars lors du téléchargement"
+
+#: deprecated/wp-user-avatar/includes/wpua-options-page.php:85
+msgid "Crop avatars to exact dimensions"
+msgstr "Recadrer les avatars pour parvenir aux dimensions exactes"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-widget.php:65
+msgid "Automatically add paragraphs"
+msgstr "Créer automatiquement les paragraphes"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:136
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:148
+#: src/Admin/SettingsPages/DragDropBuilder/Fields/EditProfile/ShowProfilePicture.php:30
+msgid "Size"
+msgstr "Taille"
+
+#: src/Admin/SettingsPages/FormList.php:238
+#: src/ContentProtection/WPListTable.php:84
+msgid "Edit"
+msgstr "Modifier"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-admin.php:243
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:79
+#: src/Admin/SettingsPages/EmailSettings/DefaultTemplateCustomizer.php:283
+#: src/ShortcodeParser/MyAccount/edit-profile.tmpl.php:98
+#: src/ShortcodeParser/MyAccount/edit-profile.tmpl.php:117
+msgid "Remove"
+msgstr "Retirer"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-widget.php:56
+#: src/Widgets/Form.php:65 src/Widgets/TabbedWidget.php:473
+#: src/Widgets/UserPanel.php:74
+msgid "Title:"
+msgstr "Titre :"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-shortcode.php:177
+msgid "Profile updated."
+msgstr "Profil mis à jour."
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:143
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:141
+#: src/Themes/DragDrop/AbstractBuildScratch.php:341
+msgid "Medium"
+msgstr "Moyen"
+
+#: deprecated/wp-user-avatar/includes/wpua-options-page.php:79
+#: src/Themes/DragDrop/AbstractBuildScratch.php:83
+#: src/Themes/DragDrop/AbstractBuildScratch.php:224
+#: src/Themes/DragDrop/AbstractBuildScratch.php:499
+msgid "Width"
+msgstr "Largeur"
+
+#: deprecated/wp-user-avatar/includes/wpua-options-page.php:81
+msgid "Height"
+msgstr "Hauteur"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:199
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:142
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-admin.php:243
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:205
+msgid "Undo"
+msgstr "Annuler"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-shortcode.php:202
+#: src/Themes/DragDrop/AbstractTheme.php:113
+msgid "Update Profile"
+msgstr "Mettre à jour votre profil"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:140
+#: src/Themes/DragDrop/AbstractBuildScratch.php:342
+msgid "Large"
+msgstr "Grand"
+
+#: src/ContentProtection/ContentConditions.php:232
+#: src/ContentProtection/ContentConditions.php:245
+#: src/ContentProtection/ContentConditions.php:257
+#: src/ContentProtection/ContentConditions.php:331
+#: src/ContentProtection/ContentConditions.php:367
+msgid "Select %s"
+msgstr "Sélectionner %s"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-widget.php:13
+msgid "Insert"
+msgstr "Insérer"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-widget.php:60
+msgid "Description:"
+msgstr "Description&nbsp;:"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:73
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:185
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:192
+msgid "Upload"
+msgstr "Envoi"
+
+#: deprecated/wp-user-avatar/includes/wpua-functions.php:75
+#: deprecated/wp-user-avatar/includes/wpua-functions.php:81
+msgid "Image"
+msgstr "Image"
+
+#: src/Admin/SettingsPages/DragDropBuilder/FieldBase.php:89
+#: src/Admin/SettingsPages/DragDropBuilder/FieldBase.php:232
+#: src/Admin/SettingsPages/GeneralSettings.php:38
+#: src/Admin/SettingsPages/GeneralSettings.php:39
+#: src/Classes/Miscellaneous.php:17
+msgid "Settings"
+msgstr "Réglages"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:148
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:149
+msgid "wp_user_avatar_size_number"
+msgstr "wp_user_avatar_size_number"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:147
+msgid "wp_user_avatar_size_number_section"
+msgstr "wp_user_avatar_size_number_section"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:136
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:137
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:149
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:183
+msgid "wp_user_avatar_size"
+msgstr "wp_user_avatar_size"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:126
+msgid "User Name"
+msgstr "Nom d’utilisateur"
+
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:126
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:127
+msgid "wp_user_avatar_user"
+msgstr "wp_user_avatar_user"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-admin.php:206
+msgid "MonsterID (Generated)"
+msgstr "MonsterID (généré)"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-admin.php:207
+msgid "Retro (Generated)"
+msgstr "Retro (généré)"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-admin.php:205
+msgid "Wavatar (Generated)"
+msgstr "Wavatar (généré)"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-admin.php:204
+msgid "Identicon (Generated)"
+msgstr "Identicon (généré)"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-admin.php:203
+msgid "Gravatar Logo"
+msgstr "Logo Gravatar"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-admin.php:202
+msgid "Blank"
+msgstr "Vide"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-admin.php:201
+msgid "Mystery Man"
+msgstr "Homme mystère"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:260
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Impossible de créer le dossier %s. Son dossier parent est-il accessible en écriture par le serveur ?"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:256
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:283
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Mémoire dépassée. Veuillez réessayer avec un fichier plus petit."
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:252
+msgid "This file is not an image. Please try another."
+msgstr "Ce fichier n’est pas une image. Veuillez en envoyer un autre."
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:202
+msgid "Remove Image"
+msgstr "Retirer l’image"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:189
+msgid "<code>jpg jpeg png gif</code>"
+msgstr "<code>jpg jpeg png gif</code>"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:189
+msgid "Allowed Files"
+msgstr "Fichiers autorisés"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-admin.php:242
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:179
+msgid "Choose Image"
+msgstr "Choisir une image"
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:188
+#: deprecated/wp-user-avatar/includes/wpua-options-page.php:38
+#: deprecated/wp-user-avatar/includes/wpua-options-page.php:70
+msgid "Maximum upload file size: %d%s."
+msgstr "Taille maximum de fichier autorisée : %d%s."
+
+#: deprecated/wp-user-avatar/includes/wpua-options-page.php:36
+#: deprecated/wp-user-avatar/includes/wpua-options-page.php:68
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s dépasse la limite d’envoi de ce site."
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar-widget.php:13
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:193
+msgid "[avatar_upload]"
+msgstr "[avatar_upload]"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://profilepress.net"
+msgstr "https://profilepress.net/"
+
+#. Plugin Name of the plugin
+msgid "ProfilePress"
+msgstr "ProfilePress"
+
+#: deprecated/wp-user-avatar/includes/wpua-options-page.php:124
+msgid "For users without a custom avatar of their own, you can either display a generic logo or a generated one based on their e-mail address."
+msgstr "Les utilisateurs n’ayant pas d’avatar peuvent se voir attribuer un logo générique, ou un avatar généré à partir de leur adresse de messagerie."
+
+#: deprecated/wp-user-avatar/includes/class-wp-user-avatar.php:195
+#: deprecated/wp-user-avatar/includes/tinymce/window.php:139
+msgid "Original Size"
+msgstr "Taille d’origine"
