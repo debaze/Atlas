@@ -1,4 +1,4 @@
-<?php 
+<!-- <?php 
 
 /*
 Plugin Name: Nombre de visiteurs du site
@@ -117,4 +117,4 @@ $nb_posts = esc_attr($instance['nb_posts']);
 // Fin du widget 
 }
 
-?>
+?> -->
