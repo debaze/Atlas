@@ -63,7 +63,7 @@ function widget($args,$instance) {
 // Boucle pour afficher les articles 
 	echo '<p>'; 
 
-	echo visiteurs();
+	
 
 	echo '</p>'; 
 
