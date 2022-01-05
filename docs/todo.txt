@@ -1,4 +1,3 @@
-- Infos sur l'adresse postale/adresse mail/tel sur la page Contact
 - Formulaire de contact
 - Rubriques de la page d'accueil
 - Contenu de la page Conception de sites
