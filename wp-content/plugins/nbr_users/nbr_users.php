@@ -1,4 +1,4 @@
-<!-- <?php 
+<?php 
 
 /*
 Plugin Name: Nombre de visiteurs du site
@@ -18,8 +18,8 @@ function articleRecents_init() {
 class widgetArticleRecents extends WP_Widget { 
 
 // Constructeur du widgets 
-function widgetArticleRecents() { 
-parent::WP_Widget('AAF', $name = 'Nombre de visiteur du site', array('description' => 'Affichage des Nombre de visiteur du site')); 
+function __construct() { 
+parent::__construct('widgetArticleRecents', 'Nombre de visiteur du site', array('description' => 'Affichage des Nombre de visiteur du site')); 
 }
 
 //  Mise en forme 
@@ -117,4 +117,4 @@ $nb_posts = esc_attr($instance['nb_posts']);
 // Fin du widget 
 }
 
-?> -->
+?>
