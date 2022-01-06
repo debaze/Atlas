@@ -28,17 +28,7 @@ function widget($args,$instance) {
 	
 	extract($args); 
 
-	//$title = apply_filters('widget_title', $instance['title']); 
-	//$nb_posts = $instance['nb_posts']; 
-	
-	//Récupération des articles 
-	
-	//$lastposts = get_posts(array('numberposts'=>$nb_posts)); 
-
 	echo $before_widget;
- 
-
-	echo $before_title.$title.$after_title; 
 
 	echo '<p>'; 
 
