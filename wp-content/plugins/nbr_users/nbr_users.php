@@ -27,31 +27,30 @@ function __construct() {
 function widget($args,$instance) { 
 	
 	extract($args); 
+	$bdd = new PDO("mysql:host=mysql-atlasdiginamic.alwaysdata.net;dbname=atlasdiginamic_base", "253752", "moul_976");
+	$bdd->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+
+	$ip_users= $_SERVER['REMOTE_ADDR'];
+	
+	$getip=$bdd->query("SELECT ip FROM `users` where ip = '$ip_users' ; "); //::1
+	//$value = $getip->fetch();
+	$count = $getip->rowCount();
+	if ($count == 0) {
+		$setusers =$bdd->prepare("INSERT INTO `users` (ip) VALUES (?)");
+		$setusers->execute(array($ip_users));
+	}
+	
+
+
 
 	echo $before_widget;
 
 	echo '<p>'; 
+       
+		$getvisiteur=$bdd->query("SELECT ip FROM `users`");
+		$count_ip = $getvisiteur->rowCount();
 
-        if(file_exists('compteur_visites.txt'))
-        {
-                $compteur_f = fopen('compteur_visites.txt', 'r+');
-                $compte = fgets($compteur_f);
-        }
-        else
-        {
-                $compteur_f = fopen('compteur_visites.txt', 'a+');
-                $compte = 0;
-        }
-        if(!isset($_SESSION['compteur_de_visite']))
-        {
-                $_SESSION['compteur_de_visite'] = 'visite';
-                $compte++;
-                fseek($compteur_f, 0);
-                fputs($compteur_f, $compte);
-        }
-        fclose($compteur_f);
-
-        echo "Nonbre de visiteur du site : ".$compte;
+        echo "Nombre de visiteurs : ".$count_ip;
 
 	echo '</p>'; 
 
