@@ -6,6 +6,7 @@ Plugin URI: https://www.AtlasDijimanic.com/
 Description: Un simple plugin pour afficher le Nombre de visiteur du site
 Author: AtlasDijimanic
 Version: 1.0.0
+
 */
 
 add_action( 'widgets_init' , 'articleRecents_init' ); 
